@@ -1,4 +1,5 @@
 
-🔍 QR-Code-Generator 🎨
+🔍 QR-Code Builder 🎨
 
-Craft custom QR codes effortlessly with QR-Code-Generator! This tool empowers you to generate QR codes tailored to your needs, whether for URLs, text, or contact information. With a user-friendly interface and robust functionality, creating QR codes has never been easier. Level up your QR code game with QR-Code-Generator! 🚀
+
+Easily create unique QR codes with QR-Code-Generator! With the help of this application, you can create customized QR codes for contact details, text, or URLs. It's never been simpler to create QR codes thanks to their robust capabilities and user-friendly design. Use QR-Code-Generator to upgrade your QR code skills! 🚀
